@@ -11,7 +11,7 @@ author_profile: true
 <b>[A New Weighted Local-Region Prediction Method Based on Improved Connection Degree and Its Application in Air Temperature Time Series](http://www.nonlinearscience.com/paper.php?pid=0000000205) </b> <br>
 <b>Ma, W.Y.</b>, Yang, X.H., Chen, X.J.. <i>Nonlinear Science Letters C: Nano, Biology and Environment</i>, 3(2013), pp.1-23.
 
-<b>[Analysis Model For Forecast-ing Extreme Temperature Using Refined Rank Set Pair](http://www.doiserbia.nb.rs/img/doi/0354-9836/2013/0354-98361305369Q.pdf)</b> <br>
+<b>[Analysis Model For Forecasting Extreme Temperature Using Refined Rank Set Pair](http://www.doiserbia.nb.rs/img/doi/0354-9836/2013/0354-98361305369Q.pdf)</b> <br>
 Qiao, L.X., Zhang, Y., <b>Ma, W.Y.</b>, Yang, X. H., Li, J. Q.. <i>Thermal Science</i>, 17(2013), pp.1369-1374.
 
 <b>[Set Pair Analysis Based on Phase Space Reconstruction (SPA-PSR) Model and Its Application in Forecasting Extreme Temperature](https://www.hindawi.com/journals/mpe/2013/516150/)</b> <br>
