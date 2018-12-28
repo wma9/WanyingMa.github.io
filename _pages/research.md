@@ -15,7 +15,7 @@ author_profile: true
 
 ## Computional Spatial Data Analysis
 - Built a spatial poisson model and conditional autogressive (CAR) model to evaluate the association between states homicide rate and LASSO selected state gun laws
-- Established a spatiotemporal model for predicting the street crimes in August 2016 using a real-time large dataset on ``day call for service" records for street crimes in Portland (2012/03/01 - 2016/07/31). The predicted crime and original crime records in August 2016 for Portland are shown as follows:
+- Established a spatio-temporal model for predicting the street crimes in August 2015 using a real-time large dataset on ``day call for service" records for street crimes in Portland (from 2012/03/01 to 2015/07/31). The predicted crime and original crime records in August 2015 for Portland are compared as follows:
 <p align="center">
   <img src="https://wma9.github.io/images/obs.png?raw=true" alt="Photo" style="width: 400px;"/> 
   <img src="https://wma9.github.io/images/pre.png?raw=true" alt="Photo" style="width: 400px;"/> 
