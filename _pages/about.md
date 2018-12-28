@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- font: frutiger -->
 
 Hi! My name is Wanying Ma. I am a fifth-year Ph.D Candidate in the [Department of Statistics](https://www.stat.ncsu.edu) at [North Carolina State University](https://www.ncsu.edu/) under supervision of [Prof. Luo Xiao](https://www.stat.ncsu.edu/people/xiao/). 
 
