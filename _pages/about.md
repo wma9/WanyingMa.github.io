@@ -10,7 +10,7 @@ redirect_from:
 <!-- font: frutiger -->
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/me.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://lantaoyu.github.io/images/me.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Ph.D student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/). [[Curriculum Vitae]](http://lantaoyu.com/files/lantaoyu_cv.pdf)
