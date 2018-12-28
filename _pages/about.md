@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Wanying (???)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,13 +9,11 @@ redirect_from:
 ---
 <!-- font: frutiger -->
 
-<p align="center">
-  <img src="https://wma9.github.io/images/me.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
+Hi! My name is Wanying Ma (M\check{a} W$\check{a}$ny$\acute{i}$ng). I am a fifth-year Ph.D Candidate in the [Department of Statistics](https://stat.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/) under the supervision of [Prof. Luo Xiao](https://www.stat.ncsu.edu/people/xiao/). 
 
-* I am a Ph.D student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/). [[Curriculum Vitae]](http://lantaoyu.com/files/lantaoyu_cv.pdf)
-* I received my Bachelor?s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) ([University College London](https://www.ucl.ac.uk/)).
-* My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and multi-agent systems.
+I received my Bachelor?s Degree from [School of Mathematical Sciences](math.english.bnu.edu.cn) at [Beijing Normal University](english.bnu.edu.cn).
+
+My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and multi-agent systems.
 
 
 Wanying Ma
