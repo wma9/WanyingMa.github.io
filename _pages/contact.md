@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Statistics Department, North Carolina State University<br>
+2311 Stinson Dr, Raleigh, NC 27607<br>
+Email: wma9 [at] ncsu.edu
 
