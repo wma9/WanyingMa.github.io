@@ -8,7 +8,7 @@ author_profile: true
 <b>Ma, W.Y.</b>, Xiao, L., Liu, B.W., Lindquist, M.A.. <i>Biostatistics</i>, 2018. (Manuscript ID BIOSTS-18305)
 
 ## Published 
-<b>[A NewWeighted Local-Region Prediction Method Based on Improved Connection Degree and Its Application in Air Temperature Time Series](http://www.nonlinearscience.com/paper.php?pid=0000000205) </b> <br>
+<b>[A New Weighted Local-Region Prediction Method Based on Improved Connection Degree and Its Application in Air Temperature Time Series](http://www.nonlinearscience.com/paper.php?pid=0000000205) </b> <br>
 <b>Ma, W.Y.</b>, Yang, X.H., Chen, X.J.. <i>Nonlinear Science Letters C: Nano, Biology and Environment</i>, 3(2013), pp.1-23.
 
 <b>[Analysis Model For Forecast-ing Extreme Temperature Using Refined Rank Set Pair](http://www.doiserbia.nb.rs/img/doi/0354-9836/2013/0354-98361305369Q.pdf)</b> <br>
