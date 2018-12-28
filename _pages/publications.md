@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Submitted 
 <b>[A Functional Mixed Model for Scalar on Function Regression with Application to a Functional MRI Study](https://github.com/wma9/FMRI-project)</b> <br> 
-<b>Ma, W.Y.</b>, Xiao, L., Liu, B.W., Lindquist, A.M.. <i>Biostatistics</i>, 2018. (Manuscript ID BIOSTS-18305)
+<b>Ma, W.Y.</b>, Xiao, L., Liu, B.W., Lindquist, M.A.. <i>Biostatistics</i>, 2018. (Manuscript ID BIOSTS-18305)
 
 ## Published 
 <b>[A NewWeighted Local-Region Prediction Method Based on Improved Connection Degree and Its Application in Air Temperature Time Series](http://www.nonlinearscience.com/paper.php?pid=0000000205) </b> <br>
