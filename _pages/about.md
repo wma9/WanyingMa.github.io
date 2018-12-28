@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!-- font: frutiger -->
 
-Hi! My name is Wanying Ma (M\check{a} W$\check{a}$ny$\acute{i}$ng). I am a fifth-year Ph.D Candidate in the [Department of Statistics](https://stat.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/) under the supervision of [Prof. Luo Xiao](https://www.stat.ncsu.edu/people/xiao/). 
+Hi! My name is Wanying Ma (M$\check{a}$ W$\check{a}$ny$\acute{1}$ng). I am a fifth-year Ph.D Candidate in the [Department of Statistics](https://stat.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/) under the supervision of [Prof. Luo Xiao](https://www.stat.ncsu.edu/people/xiao/). 
 
 I received my Bachelor?s Degree from [School of Mathematical Sciences](math.english.bnu.edu.cn) at [Beijing Normal University](english.bnu.edu.cn).
 
