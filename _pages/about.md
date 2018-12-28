@@ -9,9 +9,9 @@ redirect_from:
 ---
 <!-- font: frutiger -->
 
-Hi! My name is Wanying Ma (M$\check{a}$ W$\check{a}$ny$\acute{i}$ng). I am a fifth-year Ph.D Candidate in the [Department of Statistics](https://stat.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/) under the supervision of [Prof. Luo Xiao](https://www.stat.ncsu.edu/people/xiao/). 
+Hi! My name is Wanying Ma (M$\check{a}$ W$\check{a}$ny$\acute{i}$ng). I am a fifth-year Ph.D Candidate in the [Department of Statistics](https://www.stat.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/) under the supervision of [Prof. Luo Xiao](https://www.stat.ncsu.edu/people/xiao/). 
 
-I received my Bachelor?s Degree from [School of Mathematical Sciences](math.english.bnu.edu.cn) at [Beijing Normal University](english.bnu.edu.cn).
+I received my Bachelor's Degree from [School of Mathematical Sciences](http://math.english.bnu.edu.cn) at [Beijing Normal University](http://english.bnu.edu.cn).
 
 My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and multi-agent systems.
 
