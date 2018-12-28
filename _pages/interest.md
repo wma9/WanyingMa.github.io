@@ -1,9 +1,9 @@
 ---
-layout: page
-title:  Interest
+layout: archive
+title: "Interest"
+permalink: /interest/
+author_profile: true
 ---
-
-
 I travel, dance, and play piano.
  
 <p align="center">
