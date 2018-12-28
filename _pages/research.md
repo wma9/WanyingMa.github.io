@@ -1,59 +1,23 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## A Novel Testing Method for Random Functional Effects in A fMRI Pain Study
+Established a new functional linear mixed model for scalar on function regression using continuous fMRI brain activation data with random functional effects to predict pain response<br>Proposed a novel equal-variance test to assess the existence of the random subject-specific functional effects<br>The proposed test has good size and better power property compared with the other method
+<p align="center">
+  <img src="https://wma9.github.io/images/bonf_homo_powercurve.png?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Computional Spatial Data Analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+The change of the street crime within each block through the 41 months is shown as follow:
+![counts](/image/counts.png)
+Also the prediction results and original crime data for August 2016 for Portland are shown as follows:
+![pre](/image/pre.png)![obs](/image/obs.png)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
