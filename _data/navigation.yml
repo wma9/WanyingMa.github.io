@@ -7,7 +7,10 @@ main:
     url: /publications/    
 
   - title: "Research"
-    url: /research/    
+    url: /research/   
+
+  - title: "Teaching"
+    url: /teaching/ 
     
   - title: "Interest"
     url: /interest/
@@ -15,5 +18,4 @@ main:
   - title: "Contact"
     url: /contact/
     
-  - title: "Guide"
-    url: /markdown/
+
