@@ -6,9 +6,8 @@ author_profile: true
 redirect_from:
   - /education/
 ---
-| Tables        Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| <p align="center">  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/>  </p> | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+* North Carolina State University, Ph.D. in Statistics, 2014-present
+* North Carolina State University, M.S. in Statistics, 2014-2017
+* Beijing Normal University, B.S. in Statistics, 2010-2014
+
 
