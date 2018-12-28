@@ -1,4 +1,5 @@
 ---
+<!-- font: frutiger -->
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -8,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- font: frutiger -->
+
 
 This is Dr. Test Account's home on the web!
 
