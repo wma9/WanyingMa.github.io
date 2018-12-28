@@ -3,8 +3,7 @@ layout: archive
 title: "Education"
 permalink: /education/
 author_profile: true
-redirect_from:
-  - /education/
+
 ---
 * North Carolina State University, Ph.D. in Statistics, 2014-present
 * North Carolina State University, M.S. in Statistics, 2014-2017
