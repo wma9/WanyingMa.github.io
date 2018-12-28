@@ -10,8 +10,8 @@ author_profile: true
 <p align="center">
   <img src="https://wma9.github.io/images/bonf_homo_powercurve.png?raw=true" alt="Photo" style="width: 400px;"/> 
   <img src="https://wma9.github.io/images/bonf_heter_power.png?raw=true" alt="Photo" style="width: 400px;"/> 
-</p>
-
+</p> 
+- The data application on a fMRI thermal pain study indicates significant subject-specific effects of human brain hemodynamics related to pain and provides insights on how the effects might differ across subjects
 
 ## Computional Spatial Data Analysis
 
