@@ -6,14 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-\usepackage{fontspec}
-\setmainfont{Linux Libertine O}
-\usepackage{booktabs}
 ---
 <!-- font: frutiger -->
 
-
-Hi! My name is Wanying Ma (M$\check{a}$ W$\check{a}$ny$\'a{i}$ng). I am a fifth-year Ph.D Candidate in the [Department of Statistics](https://www.stat.ncsu.edu) at [North Carolina State University](https://www.ncsu.edu/) under supervision of [Prof. Luo Xiao](https://www.stat.ncsu.edu/people/xiao/). 
+Hi! My name is Wanying Ma. I am a fifth-year Ph.D Candidate in the [Department of Statistics](https://www.stat.ncsu.edu) at [North Carolina State University](https://www.ncsu.edu/) under supervision of [Prof. Luo Xiao](https://www.stat.ncsu.edu/people/xiao/). 
 
 I received my Bachelor's Degree from [School of Mathematical Sciences](http://math.english.bnu.edu.cn/) at [Beijing Normal University](http://english.bnu.edu.cn/).
 
